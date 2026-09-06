@@ -1,0 +1,11 @@
+<<宽度="512"高度="512">
+  <defs>
+    <linearGradient身份标识="g"X1="0%"Y1="0%"X2="100%"y2="100%">
+      <停牌抵消="0%"stop-color="#c084fc"/>
+      <停止offset="50%"stop-color="#a855f7"/>
+      <停止offset="100%"stop-color="#7e22ce"/>
+    </linearGradient>
+  </defs>
+  <rectwidth="512"height="512"rx="112"填满="url(#g)"/>
+  <textx="256"y="368"font-size="320"font-weight="bold"文本锚定="middle"填满="#fffff"font-family="serif">球</text>
+</svg>
