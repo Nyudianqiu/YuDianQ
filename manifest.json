@@ -1,0 +1,12 @@
+{
+  "id": "/?source=pwa",
+  "name": "玉簟秋私人工作台",
+  "short_name": "玉簟秋",
+  "start_url": "./?source=pwa",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": ["standalone", "fullscreen", "minimal-ui"],
+  "orientation": "portrait",
+  "background_color": "#faf5ff",
+  "theme_color": "#a855f7"
+}
